@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ivanovicuros.ivanovicuros)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivanovicuros&theme=tokyonight" />
  </p>
