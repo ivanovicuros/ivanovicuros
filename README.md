@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivanovicuros&theme=radical" />
  </p>
