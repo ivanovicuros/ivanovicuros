@@ -1,21 +1,17 @@
 ### Hi there 👋
 
-<!--
-**urosivanovich/urosivanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Uros a Full Stack Web Developer.
 
-Here are some ideas to get you started:
+_____
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning problem solving and Data Structures
+_____
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ivanovicuros.ivanovicuros)
+:mailbox: Reach me out!
+
+[![Mail Badge](https://img.shields.io/badge/-urosivanovich-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:urosivanovich@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Uros-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uros-ivanovic/)
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivanovicuros&theme=tokyonight" />
