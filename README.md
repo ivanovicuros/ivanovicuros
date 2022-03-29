@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Uros, a Full Stack Web Developer with a graphic design background. Open to work, collaborate and volunteer.
+I'm Uros, a Full Stack Web Developer seeking a position as a Front-End engineer. I have background in Graphic Design and over 4 years of customer service and management experience in various fields. I enjoy solving problems and learning new technologies.
+Currently, I am advancing in TypeScript and working on a small application that uses Redux for state management.
 
 _____
 
