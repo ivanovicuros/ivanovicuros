@@ -8,8 +8,7 @@ _____
 - 🌱 I’m currently learning problem solving and Data Structures
 _____
 
-:mailbox: Reach out to me
-
+Connect or email
 [![Mail Badge](https://img.shields.io/badge/-email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:urosivanovich@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-connect-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uros-ivanovic/)
 
 
